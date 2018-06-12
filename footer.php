@@ -21,6 +21,7 @@
 			    <div class="footer-copyright text-center">
 			    	<p class="fineprint center-block">&copy Copyright 2018 - <a href="https://anleeconsulting.com">Anlee Consulting</a></p>
 			    </div>
+			    <!-- Design and dev by Niyi Adewole -->
 		    </div>
 			</footer>
 		</div>
